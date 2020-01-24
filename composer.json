@@ -1,0 +1,19 @@
+{
+    "name": "rakib/markdown",
+    "description": "This is the Simple Markdown Package Development By me With Laravel Framework.",
+    "license": "MIT",
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^4.0"
+    },
+    "autoload": {
+      "psr-4": {
+
+      }
+    },
+    "autoload-dev": {
+
+    }
+}
